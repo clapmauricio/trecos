@@ -152,8 +152,8 @@ C 0 Cognitivismo
 
 A abordagem humanista surgiu como uma "terceira força"
  em oposição a:
-A 0 Psicanálise e Behaviorismo
-B 1 Apenas Psicanálise
+A 1 Psicanálise e Behaviorismo
+B 0 Apenas Psicanálise
 C 0 Apenas Behaviorismo
 
 O que é recalque?
@@ -169,8 +169,8 @@ B 1 Pavlov
 C 0 Watson
 
 O funcionalismo de William James foi influenciado por:
-A 0 A teoria da evolução de Darwin
-B 1 O estruturalismo de Wundt
+A 1 A teoria da evolução de Darwin
+B 0 O estruturalismo de Wundt
 C 0 A psicanálise
 
 Na terapia rogeriana, o terapeuta deve evitar:
